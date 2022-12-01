@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "278948364206",
+    "project_id": "phone-authentication-dem-21814",
+    "storage_bucket": "phone-authentication-dem-21814.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:278948364206:android:e4ae44c85d7df4b2e6923f",
+        "android_client_info": {
+          "package_name": "com.example.phone_authentication_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "278948364206-bvgto95lsf0rlrvlg73aiisehln4p4n6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdySNfCQXj3n67tpClICw70UwXb6WlTpM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "278948364206-bvgto95lsf0rlrvlg73aiisehln4p4n6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
