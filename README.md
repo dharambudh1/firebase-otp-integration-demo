@@ -1,16 +1,15 @@
-# phone_authentication_demo
+# Firebase OTP Integration Demo
 
-A new Flutter project.
+## Description:
+This represents a demonstrative Firebase Phone Authentication project.
 
-## Getting Started
+- Features:
+  - Automatic population of the current dialing code in the country code field.
+  - A country code picker for manual selection of the dialing code.
+  - Real-time monitoring of the application's signature and code.
+  - The ability of the application to log the complete OTP as a broadcast stream.
+  - Implementation of PIN input in the OTP text field, enabling automatic verification after entering the full OTP.
+  - Efficient session management that stores login and user information in preferences for easy retrieval.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Preview
+![alt text](https://i.postimg.cc/yd0NYgNK/imgonline-com-ua-twotoone-Xx6dx-B6-L3w.png "img")
